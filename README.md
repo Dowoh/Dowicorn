@@ -26,6 +26,7 @@ or
 ## How to run in production mode
 
 ` ENV_FOR_DYNACONF=production python main.py `   Linux
+
 ` $env:ENV_FOR_DYNACONF="production"; python main.py `  VSC
 
 # To launch in linux and be able to quit without stopping the program, you can use tmux
@@ -33,8 +34,3 @@ or
 # "tmux attach" to go back to the screen
 
 # to close tmux session, just do "ctrl+b" and then "d"
-
-
-Je peux ajouter qu'il ne peuvent pas faire de 10man ou etre seulement dans les raid avec les template 20man
-
-Après, faire qu'après un certain nombre de raid, ils perdent le role, yep c'est possible
