@@ -1,0 +1,25 @@
+git checkout main
+git pull origin main
+git checkout update
+git merge main
+
+create new branch
+git checkout -b NAMEBRANCH
+
+Change branch (Ne pas oublier de COMMIT avant)
+git fetch
+git checkout NAMEBRANCH
+
+
+# upload des fichiers via VNC
+Mettre les fichiers dans /home/pi/Desktop
+ouvrir une nouvelle page de commande afin d'utiliser l'utilisateur "pi"
+    sudo mv /home/pi/desktop /home/dowo/Discordbot/database
+    sudo chown dowo:dowo /home/dowo/DiscordBot/database/NOMDUFICHIER.db
+afin de vérifier les droits des fichiers
+    ls /home/dowo/DiscordBot/database/ -la 
+
+#mettre a jour requirements.txt
+pipreqs --force 
+
+

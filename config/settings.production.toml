@@ -1,0 +1,36 @@
+[production]
+application_id="1294018711660789882"
+
+google_service_principal_filename=""
+google_name=""
+google_url_viewer=""
+
+guild=1140949535804375051 # ava discord fr
+
+time_loop_ctr=15  #minutes
+
+id_calendar_emote="📅"
+id_groupe_emote="👥"
+id_role_member = 1251482495673827389
+
+
+channel_event_raid_helper_fs=1273232918197702760
+channel_event_raid_helper_lym=1297674072817402026   
+channel_event_raid_helper_bw=1237063607947366501 
+channel_event_raid_helper_ml=1239006734782304277
+channel_event_raid_helper_tf=1254927595024289864  
+channel_new_raider = 1473046410105458730
+channel_event_summary = 1473054065368891685
+
+ROLE_rp = 1466204905034219624
+ROLE_premier_raid = 1464201066689200160
+ROLE_a_verifier = 1466047060514967552
+
+customid_10_man = ["ct22", "ct31", "ct33"]
+
+
+database="production.db"
+
+
+
+

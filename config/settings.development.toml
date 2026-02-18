@@ -1,0 +1,33 @@
+[development]
+application_id="1294018711660789882"
+
+google_service_principal_filename=""
+google_name=""
+google_url_viewer=""
+
+guild=943940095352909824 # albion_emote_1
+
+time_loop_ctr=1  #minutes
+
+id_calendar_emote="📅"
+id_groupe_emote="👥"
+id_role_member = 1100533837794119852
+
+
+channel_event_raid_helper_fs=0    # 
+channel_event_raid_helper_lym=1180889591587274812    # raid channel
+channel_event_raid_helper_bw=0 
+channel_event_raid_helper_ml=0
+channel_event_raid_helper_tf=0  
+channel_new_raider = 1099836628417138739
+channel_event_summary = 1253485364874711040
+
+ROLE_rp = 1463297110009970709
+ROLE_premier_raid = 1466175702733820017
+
+customid_10_man = ["ct31", "ct33"]
+
+
+database="development.db"
+
+

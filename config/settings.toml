@@ -1,0 +1,8 @@
+[default]
+command_prefix= "="
+google_scopes=["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
+
+
+raid_helper_id=579155972115660803
+max_field_value_length=1024
+
